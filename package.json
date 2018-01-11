@@ -1,0 +1,11 @@
+{
+  "name": "path_limit_checker",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs-extra": "^4.0.2"
+  }
+}
